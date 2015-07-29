@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'hotline_parser/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "hotline-parser"
+  spec.name          = "hotline_parser"
   spec.version       = HotlineParser::VERSION
   spec.authors       = ["salf"]
   spec.email         = ["nikola.symonov@gmail.com"]

@@ -62,10 +62,6 @@ pickle-email-*.html
 # vim artifacts
 **.sw?
 
-# Ignore application configuration
-/config/github_credentials.yml
-tags
-
 #rvm config files
 .ruby-version
 .rbenv-gemsets
