@@ -4,7 +4,6 @@ require 'hotline_parser/image'
 require 'hotline_parser/reporter'
 require 'hotline_parser/version'
 require 'yaml'
-require 'pry'
 
 module HotlineParser
   include Image
